@@ -1,0 +1,3 @@
+O sistema deve ser dividido em três áreas de acesso: clientes, lojistas e diretor.
+
+O sistema deve permitir a visualização das lojas cadastradas para os clientes.

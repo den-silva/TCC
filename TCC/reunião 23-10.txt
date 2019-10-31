@@ -1,0 +1,28 @@
+falta tabela de conta inserir mais campos CERTO
+falta tabela lojista CERTO
+
+falta outras ações de manter conta. CERTO
+
+verificar campo unique cnpj (apenas se houver lojas com cnpjs diferentes) CERTO
+
+matriz com id da filial CERTO
+
+constraint da coluna funciona
+
+confirmar se tabela promo = tabela de produto
+
+criação de tabela produto idLoja (verificar se produto a pode ser usado na loja 1, 2 ou 3 etc)
+
+inserir na regra de negócio o CPF do cliente na hora do cadastro.
+
+dicionário de dados (significado dos campos)
+
+inserir campo de ID do lojista no carimbo e não o ID da loja
+
+inserir campo de ID do lojista na cartela e não o ID da loja
+
+remover resgatado da tabela carimbo, pois isso deve ser feito na cartela , onde estão as informações
+
+campo data carimbo da tabela carimbo deve ser datetime e não apenas date. CERTO
+
+discutir os relatórios que poderão ser gerados.
