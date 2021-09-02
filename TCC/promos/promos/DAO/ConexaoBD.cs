@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
-namespace DAO
+
+namespace promos.DAO
 {
     public static class ConexaoBD
     {
@@ -13,7 +14,7 @@ namespace DAO
         /// <returns>Conexão aberta</returns>
         public static SqlConnection GetConexao()
         {
-            string strCon = "Data Source=LOCALHOST;Initial Catalog=db_promos;user id=sa; password=123456";
+            string strCon = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=db_promos;Integrated Security=true";
             SqlConnection conexao = new SqlConnection(strCon);
             conexao.Open();
             
