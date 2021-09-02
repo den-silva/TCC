@@ -1,6 +1,0 @@
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.csprojAssemblyReference.cache
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.csproj.CoreCompileInputs.cache
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.RazorAssemblyInfo.cache
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.RazorAssemblyInfo.cs
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.AssemblyInfoInputs.cache
-E:\promos\promos\obj\Debug\netcoreapp2.1\promos.AssemblyInfo.cs

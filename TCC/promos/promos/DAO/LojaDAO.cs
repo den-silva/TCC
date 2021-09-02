@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
-using promos.Models]
+using promos.Models;
+
 namespace promos.DAO
 {
     public class LojaDAO
